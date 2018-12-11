@@ -7,9 +7,9 @@ int xPos=600;
 int xDir=-1;
 //bacground
 void setup() {
-CBimg = loadImage("https://upload.wikimedia.org/wikipedia/en/2/22/Charlie_Brown.png");
-Snoopy = loadImage("https://upload.wikimedia.org/wikipedia/en/5/53/Snoopy_Peanuts.png");
-Cloud = loadImage("http://www.clker.com/cliparts/b/3/3/3/13331199701638982263Red%20Kite.svg.med.png");
+CBimg = loadImage("CharlieBrown.png");
+Snoopy = loadImage("Snoopy.png");
+Cloud = loadImage("RedKite.png");
   size(600,600);
 background(153,204,255);
 fill(126,200,80);
