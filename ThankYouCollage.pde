@@ -15,7 +15,7 @@ background(153,204,255);
 fill(126,200,80);
 rect(-1,440,600,605);
 //Snoopy's home
-
+frameRate(10)
 // CB
 CBimg.resize(0,100);
 image(CBimg,150,450);
